@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Sat, 05 Oct 2024 07:52:39 GMT
+Content-Type: text/html
+Content-Length: 237
+Connection: close
+Location: https://leetcode.cn/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr/>Powered by Tengine<hr><center>nginx</center>
+</body>
+</html>

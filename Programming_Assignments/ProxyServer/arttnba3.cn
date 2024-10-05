@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://arttnba3.cn/
+X-GitHub-Request-Id: D3F2:2D1102:23E1C7:252654:6700F11B
+Accept-Ranges: bytes
+Date: Sat, 05 Oct 2024 07:56:11 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-itm1220052-ITM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728114972.523521,VS0,VE245
+Vary: Accept-Encoding
+X-Fastly-Request-ID: dd85e956b122fe9e5108cd46939b95f1609361a3
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

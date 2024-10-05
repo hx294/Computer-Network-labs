@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Computer Network Research Group - UMass Amherst
+</title>
+</head>
+<body bgcolor="#ffffff">
+<center>
+<p><img 
+src="cnrg_imap.jpg" 
+border="0" usemap="#cnrg_imapMAP">
+<map name="cnrg_imapMAP">
+<area coords="290,177,407,205" shape="rect" href="/networks/resources/index.html">
+<area coords="163,178,275,205" shape="rect" href="/networks/education/index.html">
+<area coords="62,165,145,191" shape="rect" href="/search.html">
+<area coords="6,63,157,90" shape="rect" href="/networks/collaborations.html">
+<area coords="64,7,146,34" shape="rect" href="/networks/people.html">
+<area coords="163,7,270,33" shape="rect" href="/networks/research.html">
+<area coords="288,6,417,33" shape="rect" 
+href="/networks/publications.html">
+</map>
+<P>
+<BR>
+<BR>
+<P>
+<table width=100% border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td width=60>&nbsp;</td>
+    <td width="10%">&nbsp;</td>
+    <td width="70%"> 
+<font face="Helvetica,Arial,TimesNewRoman" color="#000000">
+<h4>
+The <a href="/index.html"> Computer Networks Research Group </a> in the <a href = "https://www.cics.umass.edu/"> School of Information and Computer Sciences</a> at
+the <a href = "http://www.umass.edu/"> University of Massachusetts, Amherst </a> is led by Professors <a href = "http://www-net.cs.umass.edu/kurose/index.html">Jim Kurose </a>, and <a href = "/personnel/towsley.html">Don Towsley</a>. 
+Our research spans a broad range of topics in networking, including network protocols and architecture, modeling and analysis, sensor networks, wireless networks, and network measurement. We seek a principled understanding of new and emerging areas through a complementary mix of theoretical and applied experimental research. 
+  </td>
+  <td width="10%">&nbsp;</td>
+ </tr>
+</table>
+
+ 
+</h4>
+
+</font>
+<p>
+<!-- QUP Button & QualNet link markup start -->
+<a href="http://www.scalable-networks.com/customers/qup/index.php">
+<img src="http://www.scalable-networks.com/images/qupmember.gif" border=0
+alt="QualNet  Network Simulator University Program"></a>
+<a href="http://www.scalable-networks.com">QualNet Network Simulator</a>
+<!-- End of QUP Button HTML & QualNet link markup -->
+<p>
+<p>
+<center>
+<font size="1">
+<a href="/networks/people.html"> PEOPLE |</a> 
+<a href="/networks/research.html"> RESEARCH |</a> 
+<a href="http://www-net.cs.umass.edu/networks/publications.html"> PUBLICATIONS |</a> 
+<a href="/networks/collaborations.html"> COLLABORATIONS |</a> 
+<a href="http://gaia.cs.umass.edu/search.html"> SEARCH |</a> 
+<a href="/networks/education/index.html"> EDUCATION |</a> 
+<a href="/networks/resources/index.html"> 
+RESOURCES</a> 
+<p>
+
+</font>
+</center>
+</body>
+</html>

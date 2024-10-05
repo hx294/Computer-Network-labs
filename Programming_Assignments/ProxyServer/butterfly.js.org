@@ -1,0 +1,7 @@
+HTTP/1.0 308 Permanent Redirect
+Content-Type: text/plain
+Location: https://butterfly.js.org/
+Refresh: 0;url=https://butterfly.js.org/
+server: Vercel
+
+Redirecting...
