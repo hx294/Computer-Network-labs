@@ -179,7 +179,7 @@ nslookup pdos.csail.mit.edu auth-ns2.csail.mit.edu
 
 - To what IP address is the DNS query message sent? Is this the IP address of your  default local DNS server? If not, what does the IP address correspond to?
 
-是，对
+否。128.52.32.80对应：auth-ns2.csail.mit.edu
 
 - Examine the DNS query message. What “Type” of DNS query is it? Does the  query message contain any “answers”? 
 
