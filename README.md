@@ -10,9 +10,9 @@
 [ICMP](<./wireshark lab/lab7/lab7.md>)  
 [Ethernet & ARP](<./wireshark lab/lab8/lab8.md>)  
 ### Programming-Assignments
-[WebSever](./Programming_Assigments/WebSever/Lab1.md)  
-[UDPpinger](./Programming_Assigments/WebSever/Lab2.md)  
-[SMTP](./Programming_Assigments/WebSever/Lab3.md)  
-[ProxyServer](./Programming_Assigments/WebSever/Lab4.md)
+[WebSever](./Programming_Assignments/WebSever/Lab1.md)  
+[UDPpinger](./Programming_Assignments/UDPPonger/Lab2.md)  
+[SMTP](./Programming_Assignments/SMTP/Lab3.md)  
+[ProxyServer](./Programming_Assignments/ProxyServer/Lab4.md)
 ### Summary
 Wireshark 实验让我更了解协议的字段，动作,发送和响应的流程，挺有帮助。  只做了应用层的编程实验，了解了字段和某些接口在python中的使用方法。
